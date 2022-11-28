@@ -13,7 +13,7 @@ Deve fazer um click simples
     Click Element    id=io.qaninja.android.twp:id/short_click
 
     Wait Until Page Contains   Isso é um clique simples
-
+##comentarios 
 
 Deve fazer um click longo
     [tags]        long
